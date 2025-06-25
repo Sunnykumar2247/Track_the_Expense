@@ -63,7 +63,7 @@ bash
 Copy
 Edit
 # Clone repository
-git clone https://github.com/Sunnykumar2247/Expense-Tracker-App
+git clone (https://github.com/Sunnykumar2247/Track_the_Expense)
 cd Expense-Tracker-App
 🔧 Setup Frontend
 bash
