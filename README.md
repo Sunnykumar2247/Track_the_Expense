@@ -1,7 +1,7 @@
 💸 Expense Management System (MERN Stack)
-🔗 Live Website: AWS Frontend Hosting
-🔗 Vercel Frontend: Vercel Live Link
-📂 GitHub Repo: Expense Tracker App
+
+🔗 Vercel Frontend: https://expense-tracker-app-three-beryl.vercel.app/
+📂 GitHub Repo: [Expense Tracker App](https://github.com/Sunnykumar2247/Track_the_Expense)
 
 📌 Project Description
 The Expense Management System is a web-based application built with the MERN Stack (MongoDB, Express, React, Node). It enables users to track and manage daily expenses efficiently with an intuitive interface and powerful reporting features.
